@@ -1,6 +1,7 @@
 # PigGameJS
 Pig Game implemented in Javascript as part of the course https://www.udemy.com/the-complete-javascript-course/
 
+Please see it running [here](https://eneiascs.github.io/PigGameJS/)
 ## Game Rules:
 
 - The game has 2 players, playing in rounds
